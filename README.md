@@ -139,7 +139,7 @@ This skill requires the following MCP server:
 **Primary Dependency:**
 - **Package:** `paper-search-mcp-nodejs`
 - **Version:** v0.2.5+
-- **Repository:** [paper-search-mcp-nodejs](https://github.com/your-repo/paper-search-mcp-nodejs)
+- **Repository:** [paper-search-mcp-nodejs](https://github.com/Dianel555/paper-search-mcp-nodejs)
 - **Installation:** `npm install -g paper-search-mcp-nodejs`
 - **MCP Command:** `claude mcp add paper-search npx paper-search-mcp-nodejs`
 
@@ -332,7 +332,7 @@ SCIHUB_MIRROR=https://sci-hub.se
 **主要依赖：**
 - **包名:** `paper-search-mcp-nodejs`
 - **版本:** v0.2.5+
-- **仓库:** [paper-search-mcp-nodejs](https://github.com/your-repo/paper-search-mcp-nodejs)
+- **仓库:** [paper-search-mcp-nodejs](https://github.com/Dianel555/paper-search-mcp-nodejs)
 - **安装:** `npm install -g paper-search-mcp-nodejs`
 - **MCP 命令:** `claude mcp add paper-search npx paper-search-mcp-nodejs`
 
